@@ -11,5 +11,4 @@ We then went to blender a to design a prototype that we would then present to th
   
 My Angle  
 My role in this project was to help with coming up with ideas, creating the project briefing   document, as well as making the presentation.  
-While I was thinking of ideas of what we could DIY many ideas came to mind but I tried to make sure that it stayed relevant to the idea of the social concern we decided to tackle which  
-brought us to the idea of the DIY Projector idea.  
+While I was thinking of ideas of what we could DIY many ideas came to mind but I tried to make sure that it stayed relevant to the idea of the social concern as well as sticking to the critical making process, which brought us to the idea of the DIY Projector idea.  
