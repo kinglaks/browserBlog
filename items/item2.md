@@ -1,5 +1,6 @@
 # UX Maker Lab  
 # Group Maker Lab Project 1  
+### The Process
 In this assignment we had to hack a traditional box into a new design  
 this is our project the Compact Desk Box  
   
@@ -9,7 +10,7 @@ Then we started a project briefing document which detailed out the plan as well 
 needed for the project.
 We then went to blender a to design a prototype that we would then present to the class  
   
-My Angle  
+### My Angle  
 My role in this project was to help with brainstorming with ideas, creating the project briefing document, as well as making the presentation. The design of the prototype was done by one of my partners of that group but we all contributed to the ideas of it.   
 Reference  
 Where we got our inspiration  
