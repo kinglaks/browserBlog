@@ -21,11 +21,9 @@ body{
     margin-left: 60px;
     width: 500px;
 }
-
 button{
     color: white;
     background-color: red;
-    margin-left: 10px;
 }
 
 .navbar-inverse{
@@ -49,6 +47,40 @@ section#itemsInner{
 
 article#items{
     position: relative;
+}
+
+div.moreleft, div.moreright {
+    position: absolute;
+    height: 100%;
+    width: 2em;
+    background: rgba(255, 255, 255, .5);
+    bottom: 0;
+}
+
+div.moreleft {
+    left: 0;
+}
+
+div.moreright {
+    left: 0;
+}
+
+.scrollleft, .scrollright {
+    position: absolute;
+    transform: scaleY(2);
+    bottom: 50%;
+    font-size: 1.2em;
+    font-weight: 100;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.scrollleft{
+    left: 0;
+}
+
+.scrollright{
+    right: 0;
 }
 
 a.left-button, a.right-button {
