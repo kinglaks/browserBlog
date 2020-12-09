@@ -13,7 +13,7 @@ showed the client and class in a presentation.
 My Angle  
 When it came to this project my role was going through the website to understand it   
 and what was potentially wrong with it. Along with being one of the people that would make sure  
-that the prototype was done correctly and adhering to the design principles that we had learned. 
+that the prototype was done correctly and adhering to the design principles that we had learned.   
 
 References  
 https://www.wlu.ca/programs/liberal-arts/undergraduate/humanities-with-leadership-foundations-ba/index.html 
