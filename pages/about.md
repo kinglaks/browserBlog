@@ -1,5 +1,7 @@
 # About Me  
-Hi! My name is Lakshan Gunajothy, I am a user experience design student   studying at Laurier University at the Brantford campus. This website is a   portfolio of all my design work that I do throughout my time at Laurier and   further beyond    
+Hi! My name is Lakshan Gunajothy, I am a user experience design student   
+studying at Laurier University at the Brantford campus. This website is a   
+portfolio of all my design work that I do throughout my time at Laurier and   further beyond    
 
 ### Experiences
 Conestoga College Coding Experience
