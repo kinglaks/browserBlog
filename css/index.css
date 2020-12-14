@@ -29,6 +29,7 @@ button{
 }
 
 .navbar-inverse{
+
     background-color: blue;
 }
 
@@ -38,6 +39,7 @@ footer{
 }
 
 .navbar-nav.navbar-right:last-child {
+    color: white;
     margin-right: 0;
 }
 

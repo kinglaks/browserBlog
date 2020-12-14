@@ -11,7 +11,7 @@ needed for the project.
 We then went to blender a to design a prototype that we would then present to the class  
   
 ### My Angle  
-My role in this project was to help with brainstorming with ideas, creating the project briefing document, as well as making the presentation. The design of the prototype was done by one of my partners of that group but we all contributed to the ideas of it.   
+My role in this project was to help with brainstorming with ideas, creating the project briefing document, as well as making the presentation. The design of the prototype was done by one of my partners of that group but we all contributed to the ideas of the design.   
 Reference  
 Where we got our inspiration  
 https://www.pinterest.ca/pin/582723639274731264/sent/?invite_code=2e6f80b8fc6d4030af59e7fcc26c1f49&sender=654922108220168492&sfo=1 
