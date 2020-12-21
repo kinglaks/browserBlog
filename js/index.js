@@ -80,7 +80,7 @@ class Section extends Page {
             `);
             if (this.oOptions.specialImage) {
                 $(`#${this.oOptions.title}`).prepend(`
-                <div class="pageImage"><img src="${this.getImageSrc(this.oOptions.specialImage)}" /></div>
+                <div class="pageImage"><img src="${this.getImageSrc(this.oOptions.specialImage)}" alt="${this.oOptions.title}" /></div>
                 `);
             }    
 
