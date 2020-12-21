@@ -18,13 +18,15 @@ body{
 }
 
 .btn{
+    color: white;
+    background-color: blue;
     margin-left: 60px;
     width: 800px;
 }
 
 button{
     color: white;
-    background-color: red;
+    background-color: blue;
 }
 
 .navbar-inverse{
