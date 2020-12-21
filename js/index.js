@@ -142,7 +142,7 @@ class Nav extends Page {
             }
         }
 
-        $("nav").html(`
+        $("navbar").html(`
         <div class="navbar navbar-inverse navbar-static-top" role="navigation">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
