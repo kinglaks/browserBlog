@@ -89,4 +89,5 @@ div.moreright {
 
 a.left-button, a.right-button {
     text-decoration: none;
+    color: rgb(60, 60, 60);
 }
