@@ -2,10 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300;400;500;600;700;800;900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300;400;500;600;700;800;900&family=Yanone+Kaffeesatz:wght@200;300;400;500;600;700&display=swap');
 
-h1, h2, h3, h4, h5{
-    font-family: 'Sansita Swashed', cursive;
-}
-
 body{
     font-family: 'Yanone Kaffeesatz', sans-serif;
     font-size: 25px;
